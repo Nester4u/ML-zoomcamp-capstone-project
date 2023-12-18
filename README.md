@@ -10,4 +10,4 @@ To choose the prediction method with the best performance, the model underwent t
 -	Build the docker container
 -	Run the docker container
 # Dependencies
-- •	You can easily install the dependencies and use the venv environment
+- You can easily install the dependencies and use the venv environment
